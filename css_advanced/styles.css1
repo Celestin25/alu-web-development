@@ -1,0 +1,112 @@
+.logo{
+  position: absolute;
+  height: 0.76%;
+  float: left;
+  top:6% ;
+}
+.links{
+  float:right;
+  position:absolute;
+  top: auto;
+  margin:5%;
+  right: 0.050%;
+  top:0%;
+}
+.register{
+  margin:5px;
+  text-align: center;
+  right:5%;
+  
+}
+.learn{
+  display: flex;
+  align-items: flex-start;
+  justify-content:baseline;
+  flex-direction: column;
+  float: left;
+  right: 10%;
+  column-gap: 21px;
+}
+.learn h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction:column;
+  background-color: brown;
+   
+}
+.banner{
+  background-color: bisque;
+  
+}
+.quote img{
+  width: 10%;
+  float:left;
+  display: flex;
+  flex-direction:column;
+  right:50%;
+}
+.i{
+  width:100%;
+}
+.video{
+  display: flex;
+  align-items: flex-start;
+  justify-content: baseline;
+  flex-direction: column;
+  float: left;
+  right: 10%;
+  column-gap: 21px;
+}
+.video img{
+  width: 20%;
+}
+.v {
+  display: flex;
+  align-items: flex-start;
+  justify-content: baseline;
+  flex-direction: column;
+  float: left;
+  right: 10%;
+  column-gap: 21px;
+}
+.button{
+  justify-content: center;
+  align-items: center;
+}
+.insurance img{
+  width: 10%;
+  background-color: aqua;
+
+}
+.checked{
+  color: orange;
+  display: flex;
+  align-items: flex-start;
+  justify-content: baseline;
+  float: left;
+  right: 10%;
+  column-gap: 21px;
+}
+.left{
+  float: left;
+}
+.right{
+  float: right;
+}
+.body{
+  background-color: aqua;
+}
+.main{
+  background-color: aqua;
+}
+.bot{
+  position: absolute;
+  float: left;
+  bottom: 2%;
+}
+.foot{
+  position: absolute;
+  float: right;
+  bottom: 2%;
+}
