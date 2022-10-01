@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your health on your fingertips</title>
+    <link rel="stylesheet" href="testing.css"/>
+</head>
+<body>
+    <header>
+        <div class="logo"><a href=>My health my responsibity</a></div>
+        <div class="links"><a href="">products</a> <a href="">pricing</a> <a href="">login</a></div>
+    </header>
+    <main>
+        <section>
+            <div class="banner">
+                <h1>OUR MISSION</h1>
+                <p>
+                    <scan>HEALTH</scan>
+                    <scan>MEDECINE</scan>
+                    <scan>EXPERTS</scan>
+                </p>
+                <button class="register">REGISTER FOR FREE</button>
+            </div>
+            <div class="health">
+                <h2>Learn more about your health</h2>
+                <div class="learn">
+                    <img id="i" src="1.png"alt="philip"/>
+                    <h1>Happiness</h1>
+                    <p>physical fit</p>
+                </div>
+                <div class="learn">
+                    <img id="i"src="6.png"alt="Nannie"/>
+                    <h1>Emotional</h1>
+                    <p>Emotional matter</p>
+                </div>
+                <div class="learn">
+                    <img id="i" src="7.png"alt="Bruce"/>
+                    <h1>Mental</h1>
+                    <p>Mental matter also</p>
+                </div>
+                <div>
+                    <img id="i" src="8.png"alt="Henry"/>
+                    <h1>Mental and physical</h1>
+                    <p>I care both mental and physical</p>
+                </div>
+                
+            </div>
+
+        </section>
+        <section class="quote">
+            <div>
+                <img src="health.jpg"alt="health">
+            </div>
+            <div>
+               <blockquote>
+                " Hard works pays off "
+               </blockquote>
+               <p>Personal name </p>
+               <p> Celestin </p>
+            </div>
+        </section>
+        <section class="video">
+            <h1>Most popular operation videos</h1>
+            <div>
+                <div id="v">
+                    <img src="health.jpg"alt="health"/>
+                    <h1>Pharmacies</h1>
+                    <p>You can watch video of pharmacies </p>
+                </div>
+                <div id="v">
+                    <img src="doctor-3-700x800.jpg"alt="doctors"/>
+                    <h1>doctors</h1>
+                    <p>you can watch the videos of doctors</p>
+                </div>
+                <div id="v">
+                    <img src="nurses.jpg"alt="nurses"/>
+                    <h1>Nurses</h1>
+                    <p>You can watch the video of nurses</p>
+                </div>
+                <button>For more videos</button>
+                <div>
+                    <img src="health.jpg"alt="health">
+                    <p>Better health is wealth</p>
+                </div>
+                </div>
+                <div class="checked">
+                    <span class ="fa fa-star checked"><img src="health.jpg"alt="health"></span>
+                    <span class="fa fa-star checked"><img src="health.jpg"alt="health"></span>
+                    <span class="fa fa-star checked"><img src="health.jpg"alt="health"></span>
+                    <span class="fa fa-star checked"><img src="health.jpg"alt="health"></span>
+                    <span class="fa fa-star"></span>
+                    <p>Best pictures</p>
+                </div>
+            </div>
+
+        </section>
+        <section>
+            <h1>Medical insurance</h1>
+            <div class="insurance">
+                <div>
+                    <img src="realistic eye drawing by ram.jpg"alt="eye"/>
+                    <h1>Eyes</h1>
+                    <p>My eyes my wealth</p>
+                </div>
+                <div>
+                    <img src="realistic eye drawing by ram.jpg"alt="eye"/>
+                    <h1>Eyes</h1>
+                    <p>My eyes my wealth</p>
+                </div>
+                <div>
+                    <img src="realistic eye drawing by ram.jpg"alt="eye"/>
+                    <h1>Eyes</h1>
+                    <p>My eyes my wealth</p>
+                </div>
+                <div>
+                    <img src="realistic eye drawing by ram.jpg"alt="eye"/>
+                    <h1>Eyes</h1>
+                    <p>My eyes my wealth</p>
+                </div>
+            </div>
+            <button>REGISTER FOR FREE</button>
+        </section>
+        <section>
+            <div class="left">
+                <h1>My health my responsibility</h1>
+                <p>importance of health and reveals that health is Wealth</p>
+                <h2>My health my responsibility</h2>
+                <p>importance of health and reveals that health is Wealth</p>
+            </div>
+            <div class="right">
+                <h1>My health my responsibility</h1>
+                <p>importance of health and reveals that health is Wealth</p>
+                <h2>My health my responsibility</h2>
+                <p>importance of health and reveals that health is Wealth</p>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer">
+            <div> 
+                <div class="bot"><a href=>My health my responsibity</a></div>
+                <div class="foot"><a href="">facebook</a> <a href="">twitter</a> <a href="">instagram</a></div>
+            </div>
+            <p>©smileschool 2020</p>
+        </div>
+    </footer>
+</body>
+</html>
